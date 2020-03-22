@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">SecondApplication</string>
+    <string name="绑定了采用ButterKnife">绑定了采用ButterKnife</string>
+    <string name="绑定了采用ButterKnife绑定的监听">绑定了采用ButterKnife绑定的监听</string>
+    <string name="Activity作为监听器">Activity作为监听器</string>
+    <string name="匿名内部">匿名内部</string>
+    <string name="匿名内部类">匿名内部类</string>
+    <string name="绑定到标签">绑定到标签</string>
+    <string name="内部类">内部类</string>
+    <string name="外部类">外部类</string>
+    <string name="ButterKnife绑定">ButterKnife绑定</string>
+    <string name="系统信息">系统信息</string>
+    <string name="模拟进度条">模拟进度条</string>
+    <string name="确认发送">确认发送</string>
+    <string name="返回">返回</string>
+    <string name="请填写收信号码">请填写收信号码</string>
+    <string name="请填写需要发送的信息">请填写需要发送的信息</string>
+    <string name="点击了采用ButterKnife绑定监听器">点击了采用ButterKnife绑定监听器</string>
+    <string name="显示屏幕方向">显示屏幕方向</string>
+    <string name="显示手机方向控制设备">显示手机方向控制设备</string>
+    <string name="显示触摸屏状态">显示触摸屏状态</string>
+    <string name="显示移动网络代号">显示移动网络代号</string>
+    <string name="获取手机信息">获取手机信息</string>
+    <string name="进度条对话框">进度条对话框</string>
+    <string name="执行任务">执行任务</string>
+</resources>
